@@ -34,3 +34,8 @@
 
 \- Design task: added OR, AND, and Multiply operations to the Binary Calculator, verified the CI/CD pipeline automatically redeployed the updated application
 
+Test 1
+Test 1.1 
+Test 1.2
+Test 1.3
+Test 1.4
