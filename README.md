@@ -1,12 +1,12 @@
-\# SOFE3980U Lab 3 Part 2 - CI/CD using Jenkins on GKE
+# SOFE3980U Lab 3 Part 2 - CI/CD using Jenkins on GKE
 
 
 
-\*\*Atharva Rajadhyaksha - 101041016\*\*
+**Atharva Rajadhyaksha - 101041016**
 
 
 
-\## Contents
+## Contents
 
 \- `BinaryCalculatorWebapp/` - Maven Spring Boot Binary Calculator app (Add, OR, AND, Multiply), with Dockerfile, Jenkinsfile (script-based CI job), and Jenkinsfile\_v2 (full CI/CD pipeline)
 
@@ -14,7 +14,7 @@
 
 
 
-\## Jenkins Jobs
+## Jenkins Jobs
 
 \- `binaryCalculate\_mvn` - Maven project job (UI-configured CI)
 
@@ -24,7 +24,7 @@
 
 
 
-\## Summary
+## Summary
 
 \- Jenkins installed on the existing `sofe3980u` GKE cluster via Helm
 
